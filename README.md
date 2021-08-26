@@ -1,5 +1,9 @@
 # seabird_demo_synchrony
 
+
+[![Zenodo DOI](https://zenodo.org/badge/395690817.svg)](https://zenodo.org/badge/latestdoi/395690817)
+
+
 Code for Youngflesh et al. 2021 *Oikos*
 
 **Associated publications:**
