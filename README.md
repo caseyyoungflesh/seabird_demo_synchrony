@@ -22,4 +22,4 @@ Code for Youngflesh et al. 2021 *Oikos*
 
 **Data:**
 
-* Data used in this study can be obtained from Dryad
+* Data used in this study can be obtained from Dryad [here](https://doi.org/10.5068/D1KT10)
