@@ -8,7 +8,7 @@ Code for Youngflesh et al. 2021 *Oikos*
 
 **Associated publications:**
   
-  * Youngflesh, C., Li, Y., Lynch, H.J., Delord, K., Barbraud, C., Ji, R., & S. Jenouvrier. Lack of synchronized breeding success in a seabird community: extreme events, niche separation, and environmental variability. *Oikos*
+  * Youngflesh, C., Li, Y., Lynch, H.J., Delord, K., Barbraud, C., Ji, R., & S. Jenouvrier. 2021. [Lack of synchronized breeding success in a seabird community: extreme events, niche separation, and environmental variability.](https://www.youngfleshlab.com/assets/papers/Youngflesh-et-al-2021-Oikos.pdf) *Oikos*
 
 **Repository structure:**
 
